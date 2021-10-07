@@ -1,4 +1,4 @@
-#Juggernaut: a real-time, InfluxDB based, monitoring system for LEGO Mindstorm.
+Juggernaut: a real-time, InfluxDB based, monitoring system for LEGO Mindstorm.
 
 Description: 
 
