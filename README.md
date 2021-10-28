@@ -1,6 +1,6 @@
 # Juggernaut #
 
-### real-time, InfluxDB based, monitoring system for LEGO Mindstorm. ###
+#### real-time, InfluxDB based, monitoring system for LEGO Mindstorm. ####
 
 ## Description: ##
 
