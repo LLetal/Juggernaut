@@ -8,7 +8,7 @@ This application was designed to display and store real-time data from LEGO Mind
 
 ### How to install: ###
 
-This is an unofficial version that is not ready to be installed yet. You can however install the official realise here: https://github.com/bonitoo-io/influxdb-lego
+This is an unofficial version that is not ready to be installed yet. You can however install the official realise for lego boost here: https://github.com/bonitoo-io/influxdb-lego
 ### How to Use: ###
 
 All you have to do is to connect the robot with this app. Then you can monitor everything about it with InfluxDB. The robots can do whatever you want them to do. You can even monitor multiple robots at once while they are, for example, racing, fighting each other or working together in a factory. 
